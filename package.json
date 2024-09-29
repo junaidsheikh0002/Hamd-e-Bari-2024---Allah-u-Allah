@@ -1,0 +1,20 @@
+{
+  "name": "wonderful-amazing-beautiful-hamd-e-bari-2024---allah-u-allah---tera-zikr-ho-teri-fikr-ho---hamd-_0001",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "python": "^0.0.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^22.7.4"
+  },
+  "description": ""
+}
